@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(205, 199, 199);
+    color: rgba(255, 115, 0, 0.788);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+    background-color: gray;
+    border-bottom: solid;
+}
+
+
+button{
+    width: 10%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: pointer;
+}
+
+
